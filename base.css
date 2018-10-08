@@ -1,0 +1,29 @@
+body, input, select, textarea, table, th, td, li, a, h1, h2, h3, h4, h5, h6 {
+  font-family: 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS P Gothic', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'Osaka', arial, sans-serif, verdana, Helvetica !important;
+}
+
+body {
+  background-image: url(https://imgbp.hotp.jp/cs_cont/salonTemplate/bt/TD020.png);
+  background-color: #eee !important;
+}
+
+.header-summary {
+  background-color: #BFB4AB;
+}
+
+.header-summary > h1 {
+  font-size: 0.5rem;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: #fff;
+  max-width: 720px !important;
+}
+
+.top-img > img {
+  width: 100%;
+  height: auto;
+}
